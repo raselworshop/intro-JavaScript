@@ -14,3 +14,15 @@ if(num1 > num2){
 }else{
     result = num1 + num2 //num1 isn't bigger then result will be sum
 } console.log(result)
+
+// when num2 is bigger than num1
+let num3 = 70;
+let num4 = 90;
+let result2;
+if(num3 > num4){
+    result2 = num3 * 2 //num1 is bigger then it will be double
+}else{
+    result2 = num3 + num4 //num1 isn't bigger then result will be sum
+} console.log(result2)
+
+// ternary checking
