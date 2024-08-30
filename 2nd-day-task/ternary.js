@@ -26,3 +26,7 @@ if(num3 > num4){
 } console.log(result2)
 
 // ternary checking
+let num5 = 90;
+let num6 = 70;
+let result3 = (num5 > num6) ? (num5 * 2) : (num5 + num6);
+console.log(result3)
